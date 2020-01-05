@@ -1,0 +1,8 @@
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\bin\Debug\netstandard2.0\AbstractProject.Domain.deps.json
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\bin\Debug\netstandard2.0\AbstractProject.Domain.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\bin\Debug\netstandard2.0\AbstractProject.Domain.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\obj\Debug\netstandard2.0\AbstractProject.Domain.csprojAssemblyReference.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\obj\Debug\netstandard2.0\AbstractProject.Domain.AssemblyInfoInputs.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\obj\Debug\netstandard2.0\AbstractProject.Domain.AssemblyInfo.cs
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\obj\Debug\netstandard2.0\AbstractProject.Domain.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Domain\obj\Debug\netstandard2.0\AbstractProject.Domain.pdb

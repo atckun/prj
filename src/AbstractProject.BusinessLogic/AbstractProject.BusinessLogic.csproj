@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="MediatR" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AbstractProject.Abstractions\AbstractProject.Abstractions.csproj" />
+    <ProjectReference Include="..\AbstractProject.DataAccess\AbstractProject.DataAccess.csproj" />
+    <ProjectReference Include="..\AbstractProject.Implementations\AbstractProject.Implementations.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Items\Queries\Items" />
+  </ItemGroup>
+
+</Project>

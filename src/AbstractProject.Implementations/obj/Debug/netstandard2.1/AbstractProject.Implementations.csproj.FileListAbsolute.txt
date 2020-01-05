@@ -1,0 +1,11 @@
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\bin\Debug\netstandard2.1\AbstractProject.Implementations.deps.json
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\bin\Debug\netstandard2.1\AbstractProject.Implementations.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\bin\Debug\netstandard2.1\AbstractProject.Implementations.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\bin\Debug\netstandard2.1\AbstractProject.Abstractions.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\bin\Debug\netstandard2.1\AbstractProject.Abstractions.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.csprojAssemblyReference.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.AssemblyInfoInputs.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.AssemblyInfo.cs
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.csproj.CopyComplete
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Implementations\obj\Debug\netstandard2.1\AbstractProject.Implementations.pdb

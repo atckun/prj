@@ -1,0 +1,8 @@
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.0\AbstractProject.BusinessLogic.deps.json
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.0\AbstractProject.BusinessLogic.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.0\AbstractProject.BusinessLogic.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.0\AbstractProject.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.0\AbstractProject.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.0\AbstractProject.BusinessLogic.AssemblyInfo.cs
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.0\AbstractProject.BusinessLogic.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.0\AbstractProject.BusinessLogic.pdb

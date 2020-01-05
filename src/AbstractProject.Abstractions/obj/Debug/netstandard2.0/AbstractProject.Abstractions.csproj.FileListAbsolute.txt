@@ -1,0 +1,7 @@
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\bin\Debug\netstandard2.0\AbstractProject.Abstractions.deps.json
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\bin\Debug\netstandard2.0\AbstractProject.Abstractions.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\bin\Debug\netstandard2.0\AbstractProject.Abstractions.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\obj\Debug\netstandard2.0\AbstractProject.Abstractions.AssemblyInfoInputs.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\obj\Debug\netstandard2.0\AbstractProject.Abstractions.AssemblyInfo.cs
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\obj\Debug\netstandard2.0\AbstractProject.Abstractions.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.Abstractions\obj\Debug\netstandard2.0\AbstractProject.Abstractions.pdb

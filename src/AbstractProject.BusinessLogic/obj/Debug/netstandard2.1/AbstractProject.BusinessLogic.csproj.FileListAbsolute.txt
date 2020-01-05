@@ -1,0 +1,17 @@
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.BusinessLogic.deps.json
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.BusinessLogic.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.BusinessLogic.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Abstractions.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.DataAccess.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Domain.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Implementations.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Abstractions.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.DataAccess.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Implementations.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\bin\Debug\netstandard2.1\AbstractProject.Domain.pdb
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.AssemblyInfo.cs
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.csproj.CopyComplete
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.dll
+C:\Users\atckun\Desktop\portfolio\AbstractProject\src\AbstractProject.BusinessLogic\obj\Debug\netstandard2.1\AbstractProject.BusinessLogic.pdb

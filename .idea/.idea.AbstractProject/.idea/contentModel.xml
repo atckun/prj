@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\atckun\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\atckun\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\atckun\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\atckun\.nuget\packages\xunit.runner.visualstudio\2.4.0\build\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\atckun\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\atckun\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\atckun\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AbstractProject.-754925245.00" t="ExcludeRecursive" />
+    <e p="C:\Users\atckun\Desktop\portfolio\AbstractProject" t="IncludeFlat">
+      <e p="AbstractProject.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="AbstractProject.Abstractions" t="IncludeRecursive">
+          <e p="AbstractProject.Abstractions.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Enums" t="Include">
+            <e p="MemoryCacheKeys.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="ItemModel.cs" t="Include" />
+            <e p="ItemResponse.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="AbstractProject.Abstractions.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Response.cs" t="Include" />
+        </e>
+        <e p="AbstractProject.Api" t="IncludeRecursive">
+          <e p="AbstractProject.Api.csproj" t="IncludeRecursive" />
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="ItemController.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AbstractProject.Api.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="launchSettings.json" t="Include" />
+          </e>
+          <e p="Startup.cs" t="Include" />
+        </e>
+        <e p="AbstractProject.BusinessLogic" t="IncludeRecursive">
+          <e p="AbstractProject.BusinessLogic.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Items" t="Include">
+            <e p="Commands" t="Include">
+              <e p="Items" t="Include">
+                <e p="CreateItem" t="Include">
+                  <e p="CreateItemCommand.cs" t="Include" />
+                  <e p="CreateItemCommandHandler.cs" t="Include" />
+                </e>
+                <e p="DeleteItem" t="Include">
+                  <e p="DeleteItemCommand.cs" t="Include" />
+                  <e p="DeleteItemCommandHandler.cs" t="Include" />
+                </e>
+                <e p="UpdateItem" t="Include">
+                  <e p="UpdateItemCommand.cs" t="Include" />
+                  <e p="UpdateItemCommandHandler.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Queries" t="Include">
+              <e p="Items" t="Include">
+                <e p="GetItems" t="Include">
+                  <e p="GetItemsQuery.cs" t="Include" />
+                  <e p="GetItemsQueryHandler.cs" t="Include" />
+                  <e p="Profiles" t="Include">
+                    <e p="ItemsProfile.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="AbstractProject.BusinessLogic.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="AbstractProject.DataAccess" t="IncludeRecursive">
+          <e p="AbstractProject.DataAccess.csproj" t="IncludeRecursive" />
+          <e p="AbstractProjectDbContext.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Configurations" t="Include">
+            <e p="Items" t="Include">
+              <e p="ItemEntityConfiguration.cs" t="Include" />
+            </e>
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="AbstractProject.DataAccess.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="AbstractProject.Domain" t="IncludeRecursive">
+          <e p="AbstractProject.Domain.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="AbstractProject.Domain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Tables" t="Include">
+            <e p="ItemEntity.cs" t="Include" />
+          </e>
+        </e>
+        <e p="AbstractProject.Implementations" t="IncludeRecursive">
+          <e p="AbstractProject.Implementations.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Exceptions" t="Include">
+            <e p="EntityRecordNotFoundException.cs" t="Include" />
+            <e p="NotNormalizedException.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="AbstractProject.Implementations.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Data" t="Include" />
+        <e p="Domain" t="Include" />
+        <e p="Web" t="Include" />
+      </e>
+      <e p="test" t="Include">
+        <e p="AbstractProject.Tests" t="IncludeRecursive">
+          <e p="AbstractProject.Tests.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="Item" t="Include">
+              <e p="Commands" t="Include" />
+              <e p="CreateItemTest.cs" t="Include" />
+            </e>
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp3.1" t="Include">
+                <e p="AbstractProject.Tests.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="TestHelper.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
